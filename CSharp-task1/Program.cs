@@ -2,6 +2,18 @@
 
 //Verilmiş n - ədədinin 3-ə və 7-ə bölünüb-bölünməməsini tapın.
 
+//int n = 63;
+
+//if (n % 21 ==0)
+//{
+//    Console.WriteLine("bolunur");
+
+//}
+//else
+//{
+//    Console.WriteLine("bolunmur");
+
+//}
 
 
 //////n və m ədədləri verilir. Əgər n və m ədədləri hər ikisi cütdürsə n və m ədədlərinin cəmini hesablayın.
@@ -80,20 +92,22 @@
 
 //int sum = 0;
 
-//int[] arr = new int[60];
+//int[] arr = { 5, 10, };
 
 
 
 
-//for (int i = 0; i <arr.Length; i++) 
+//for (int i = 0; i < arr.Length; i++)
 //{
 //    if (arr[i] % 2 == 1)
 
 //    {
-//        sum += arr[i];
+//        sum++;
+
+        
 
 //    }
-
+//    sum += arr[i];
 //}
 //Console.WriteLine(sum);
 
